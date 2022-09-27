@@ -1,4 +1,0 @@
-<configs>
-	<setattribute xpath="/gameevents/action_sequence[@name='game_first_spawn']/action[@class = 'AddQuest']/property[@name='quest']" name="value">quest_Prep</setattribute>
-	<setattribute xpath="/gameevents/action_sequence[@name='game_first_spawn']/action[@class = 'AddJournalTip']/property[@name='show_window']" name="value">false</setattribute>
-</configs>
